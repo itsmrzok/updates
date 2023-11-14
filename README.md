@@ -1,22 +1,25 @@
-#TITLTW
-hellow world 
-# Welcome to [Your GitHub Username]'s Repository! 👋
+# Welcome to itsmrzok's GitHub Repository! 👋
 
-Hey there! I'm [Your Name], a passionate [Your Field or Role] student at [Your University]. This repository is my coding playground, where I experiment with various technologies and share my projects.
+Hey, I'm Zameer, a Computer Systems Engineering student at MUET with a focus on programming. This is my coding space, where I bring my ideas to life.
 
 ## About Me
-- 🎓 Studying [Your Major] at [Your University]
-- 💻 Currently exploring [Your Main Interests/Technologies]
-- 🌐 Connect with me on [LinkedIn](insert LinkedIn profile link)
+- 🎓 Studying Computer Systems Engineering at MUET
+- 📘 Majoring in Programming
+- 💻 Passionate about Cyber Security and Programming
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/zameer-abbas-739a49221/)
 
 ## Repository Highlights
-- 🚀 [Project 1]: A brief description of Project 1.
-- 🐍 [Project 2]: Overview of Project 2, written in Python.
-- 📱 [Project 3]: Mobile app development using Dart and Flutter.
+1. 🚀 **Web Development - Frontend**
+   - Description: A project showcasing my skills in frontend web development.
+   - [Link to Project 1](#)
+
+2. 🐍 **Java Project**
+   - Description: A Java project highlighting my proficiency in the language.
+   - [Link to Project 2](#)
 
 ## Get in Touch
-Feel free to explore my code, raise issues, or contribute! Let's connect and collaborate on exciting projects. 
+Feel free to explore my projects, open issues, or contribute! Connect with me on LinkedIn for tech discussions and collaborations.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](insert LinkedIn profile link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/zameer-abbas-739a49221/)
 
 Happy coding! 🚀✨
