@@ -1,73 +1,100 @@
-Iphone 4
-Iphone 4s
-Iphone 5s
-Iphone 5
-Iphone 6
-Iphone 6 plus
-Iphone 6s
-Iphone 6s plus
-Iphone 7
-Iphone 7+
-Iphone 8
-Iphone 8+
-Iphone X
-Iphone Xs
-Iphone Xr
-Iphone Xs max
-Iphone 11
-Iphone 11 pro
-Iphone 11 pro max
-Iphone 12 
-Iphone 12 pro
-Iphone 12 pro max
-Iphone 13 
-Iphone 13 pro
-Iphone 13 pro max
-Iphone 14 
-Iphone 14 pro
-Iphone 14 pro max
-Samsung s1
-Samsung s2
-Samsung s3
-Samsung s4
-Samsung s5
-Samsung s6
-Samsung s6 edge
-Samsung s7
-Samsung s7 edge
-Samsung s8
-Samsung s8 plus
-Samsung s9
-Samsung s9 plus
-Samsung s10
-Samsung s10 plus
-Samsung s20
-Samsung s20 plus
-Samsung s21
-Samsung s21 ultra
-Samsung A10
-Samsung A10s
-Samsung A21
-Samsung A23
-Samsung A53
-Samsung A51
-Samsung A32
-Samsung A53
-Samsung A42
-Samsung ZFold
-Samsung Note 1
-Samsung Note 2
-Samsung Note 3
-Samsung Note 4
-Samsung Note 5
-Samsung Note 6
-Samsung Note 7
-Samsung Note 8
-Samsung Note 9
-Samsung Note 10
-Samsung Note 20
-Nokia 270
-Nokia X30
-Nokia G60
-Nokia C31
-Nokia T21
+iPhone 13
+Samsung Galaxy S21
+Google Pixel 6
+OnePlus 9 Pro
+Xiaomi Mi 11
+Oppo Find X5 Pro
+Huawei P50 Pro
+Sony Xperia 1 III
+iPhone 13 Pro
+Samsung Galaxy Z Fold 3
+Google Pixel 6 Pro
+OnePlus 9
+Xiaomi Mi 11 Ultra
+Oppo Reno6 Pro
+Huawei Mate 40 Pro
+Sony Xperia 5 III
+iPhone 13 mini
+Samsung Galaxy Note 20 Ultra
+Google Pixel 5a
+OnePlus Nord 2
+Xiaomi Redmi Note 10
+Oppo Reno5 Pro
+Huawei P40 Pro
+Sony Xperia 10 III
+iPhone 12
+Samsung Galaxy Z Flip 3
+Google Pixel 5
+OnePlus 8T
+Xiaomi Poco X3
+Oppo A74
+Huawei Nova 8 Pro
+Sony Xperia 10 II
+iPhone SE (2020)
+Samsung Galaxy S20 FE
+Google Pixel 4a
+OnePlus Nord
+Xiaomi Redmi Note 9
+Oppo A53
+Huawei P30 Pro
+Sony Xperia 5 II
+iPhone 12 Pro Max
+Samsung Galaxy A52
+Google Pixel 4
+OnePlus 8 Pro
+Xiaomi Mi 10
+Oppo F19 Pro
+Huawei Nova 7 Pro
+Sony Xperia XZ3
+iPhone 12 Pro
+Samsung Galaxy Z Fold 2
+Google Pixel 4a 5G
+OnePlus 8
+Xiaomi Redmi Note 8
+Oppo A15
+Huawei P20 Pro
+Sony Xperia XA2
+iPhone 11
+Samsung Galaxy Note 20
+Google Pixel 3a
+OnePlus 7T Pro
+Xiaomi Redmi Note 7
+Oppo F17 Pro
+Huawei Mate 30 Pro
+Sony Xperia 1 II
+iPhone 11 Pro Max
+Samsung Galaxy A71
+Google Pixel 3
+OnePlus 7 Pro
+Xiaomi Mi 9
+Oppo A9
+Huawei P Smart 2021
+Sony Xperia XZ2
+iPhone 11 Pro
+Samsung Galaxy A32
+Google Pixel 3 XL
+OnePlus 7
+Xiaomi Redmi 9
+Oppo Reno4 Pro
+Huawei Y7p
+Sony Xperia L4
+iPhone XR
+Samsung Galaxy A21s
+Google Pixel 2
+OnePlus 6T
+Xiaomi Mi 8
+Oppo A5
+Huawei Enjoy 20 Pro
+Sony Xperia XZ1
+iPhone XS
+Samsung Galaxy A12
+Google Pixel 2 XL
+OnePlus 6
+Xiaomi Poco X2
+Oppo Reno3 Pro
+Huawei P Smart 2020
+Sony Xperia XA1
+iPhone XS Max
+Samsung Galaxy A02s
+Google Pixel
+OnePlus 5T
