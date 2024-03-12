@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ppp",
+            "request": "launch",
+            "mainClass": "com.example.ppp",
+            "projectName": "dsa_1bfe2742"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -16,7 +23,7 @@
             "request": "launch",
             "mainClass": "com.example.HelloApplication",
             "projectName": "dsa_1bfe2742",
-            "vmArgs": "--module-path \"C:/Users/23br4/Downloads/javafx-sdk-21.0.2/lib\" --add-modules javafx.controls,javafx.fxml",
+            "vmArgs": "--module-path \"C:/Users/23br4/Downloads/javafx-sdk-21.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
         }
     ]
 }
