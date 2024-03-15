@@ -1,21 +1,16 @@
 # Vertical Search Engine Project
 
 ## Group Members
-- 22CS078 - [Member Name 1]
-- 22CS032 - [Member Name 2]
-- 22CS084 - [Member Name 3]
+- 22CS004 - SIDRA SAMI
+- 22CS032 - ALISHA ABBASI
+- 22CS078 - ZAMEER ABBAS
+- 22CS084 - SAADULLLAH
 
 ## Project Title
 Vertical Search Engine
 
 ## Project Description
 This project is implemented in Java programming language and incorporates Data Structures and Algorithms (DSA), specifically AVL trees. The purpose of the project is to create a vertical search engine.
-
-## Dependencies
-To run this program, you need to install the following JavaFX libraries:
-- [Library 1]
-- [Library 2]
-- [Library 3]
 
 ## Project Supervisor
 - **Supervisor**: Dr. Summer Zia
