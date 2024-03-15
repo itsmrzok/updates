@@ -23,7 +23,7 @@
                   <Cursor fx:constant="DEFAULT" />
                </cursor>
             </ImageView>
-      <Label layoutX="68.0" layoutY="357.0" prefHeight="23.0" prefWidth="505.0" text="Assigned By : Ma,am SAMMER ZIA || Done By : 22CS032, 22CS078, 22CS084" textFill="#000000b5">
+      <Label layoutX="68.0" layoutY="357.0" prefHeight="23.0" prefWidth="505.0" text="Assigned By : Ma,am SAMMER ZIA || Done By : 22CS (04,32,78,84)" textFill="#000000b5">
                <font>
                   <Font name="Calibri" size="16.0" />
                </font>
