@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GUI",
+            "request": "launch",
+            "mainClass": "main.java.GUI",
+            "projectName": "dsa_1bfe2742"
+        },
+        {
+            "type": "java",
+            "name": "GUI",
+            "request": "launch",
+            "mainClass": "GUI",
+            "projectName": "dsa_1bfe2742"
+        },
+        {
+            "type": "java",
             "name": "ppp",
             "request": "launch",
             "mainClass": "com.example.ppp",

@@ -21,7 +21,6 @@ public class HelloApplication extends Application {
             close(stage);
         });
     }
-
     // asking for confirmation before close window
     public void close(Stage stage){
         // Getting confirmation before closing window

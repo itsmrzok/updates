@@ -1,14 +1,20 @@
 package com.example;
 
+import java.io.IOException;
+
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
+import javafx.fxml.FXMLLoader;
+import javafx.scene.Parent;
+import javafx.scene.Scene;
 import javafx.scene.control.Alert;
 import javafx.scene.control.ButtonType;
 import javafx.scene.control.Label;
+import javafx.scene.image.Image;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
 
-public class Scene2Controller {
+public class Scene2Controller{
     @FXML
     Label MobileName;
     @FXML
@@ -36,5 +42,23 @@ public class Scene2Controller {
             stage.close();
         }
     }
+public void back(ActionEvent event) {
+    try {
+        FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("hello-view.fxml"));
+        Parent root = fxmlLoader.load();
+        
+        // Get the current stage
+        Stage stage = (Stage) ((Node) event.getSource()).getScene().getWindow();
+        
+        // Set the scene with the hello-view.fxml
+        stage.setScene(new Scene(root));
+        stage.show();
+    } catch (IOException e) {
+        System.out.println("eoor"); // Handle the exception appropriately
+    }
+}
+    
+
+    
 
 }
