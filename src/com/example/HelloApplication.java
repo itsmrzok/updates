@@ -40,5 +40,7 @@ public class HelloApplication extends Application {
     static AvlTree wearable = new AvlTree();
     public static void main(String[] args) {
         launch();
+        
     }
+
 }

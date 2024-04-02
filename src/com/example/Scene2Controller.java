@@ -11,10 +11,13 @@ import javafx.scene.control.Alert;
 import javafx.scene.control.ButtonType;
 import javafx.scene.control.Label;
 import javafx.scene.image.Image;
+import javafx.scene.image.ImageView;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
 
 public class Scene2Controller{
+    @FXML
+    ImageView productimage;
     @FXML
     Label MobileName;
     @FXML
@@ -24,11 +27,12 @@ public class Scene2Controller{
     private AnchorPane finalScene;
 
     Stage stage;
-
     public void setText(String sName , String sPrice)
     {
         MobileName.setText(sName);
         MobilePrice.setText(sPrice);
+        String imagePath = "E:\\project\\dsa\\images\\" + MobileName.getText()+ ".png";
+        productimage.setImage(new Image("file:" + imagePath));
     }
 
     public void close(ActionEvent event) {
@@ -42,23 +46,20 @@ public class Scene2Controller{
             stage.close();
         }
     }
-public void back(ActionEvent event) {
-    try {
-        FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("hello-view.fxml"));
-        Parent root = fxmlLoader.load();
+// public void back(ActionEvent event) {
+//     try {
+//         FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("hello-view.fxml"));
+//         Parent root = fxmlLoader.load();
         
-        // Get the current stage
-        Stage stage = (Stage) ((Node) event.getSource()).getScene().getWindow();
+//         // Get the current stage
+//         Stage stage = (Stage) ((Node) event.getSource()).getScene().getWindow();
         
-        // Set the scene with the hello-view.fxml
-        stage.setScene(new Scene(root));
-        stage.show();
-    } catch (IOException e) {
-        System.out.println("eoor"); // Handle the exception appropriately
-    }
-}
-    
-
-    
+//         // Set the scene with the hello-view.fxml
+//         stage.setScene(new Scene(root));
+//         stage.show();
+//     } catch (IOException e) {
+//         System.out.println("eoor"); // Handle the exception appropriately
+//     }
+// }
 
 }

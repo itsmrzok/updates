@@ -1,3 +1,4 @@
+
 package com.example;
 
 import javafx.collections.FXCollections;
@@ -42,6 +43,7 @@ public class HelloController implements Initializable {
 
         FXMLLoader loader= new FXMLLoader(getClass().getResource("searchResult.fxml"));
         root =loader.load();
+        //String varImages= "E:\\project\\dsa\\images";
 
         Scene2Controller result = loader.getController();
 
@@ -50,22 +52,29 @@ public class HelloController implements Initializable {
             Vehicles.ReadALLData(Vehicles.root,"E:\\project\\DSA\\src\\com\\example\\Vehicles.txt");
             
             temp=Vehicles.searchData(Vehicles.root, searchhData);
+            // varImages=varImages+"\\Vehicles";
+            
         }
         else if (InitialCategory.getValue().equals("Wearables"))
         {
             wearable.ReadALLData(wearable.root,"E:\\project\\DSA\\src\\com\\example\\wearables.txt");
             temp=wearable.searchData(wearable.root, searchhData);
+            // varImages=varImages+"\\Wearables";
         } else if (InitialCategory.getValue().equals("Books"))
         {
             Books.ReadALLData(Books.root,"E:\\project\\DSA\\src\\com\\example\\BOOks.txt");
             temp=Books.searchData(Books.root, searchhData);
+            // varImages=varImages+"\\Books";
         } else if (InitialCategory.getValue().equals("Mobile"))
         {
             MobilePhpones.ReadALLData(MobilePhpones.root,"E:\\project\\DSA\\src\\com\\example\\Mobile phone.txt");
             temp=MobilePhpones.searchData(MobilePhpones.root, searchhData);
+            // varImages=varImages+"\\Mobile phone";
         }
         if (temp!=null)
             result.setText(temp.product_name, String.valueOf(temp.price));
+        // varImages=varImages+"\\"+temp.product_name+".png";
+        //  System.out.println(varImages);
 
         stage = (Stage)((Node)event.getSource()).getScene().getWindow();
         scene = new Scene(root);

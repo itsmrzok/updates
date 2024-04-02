@@ -3,15 +3,13 @@
 <?import javafx.scene.Cursor?>
 <?import javafx.scene.control.Button?>
 <?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane fx:id="finalScene" prefHeight="450.0" prefWidth="605.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.Scene2Controller">
+<AnchorPane fx:id="finalScene" prefHeight="450.0" prefWidth="605.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.Scene2Controller">
    <children>
-
-
-
-
 
    <Label layoutX="222.0" layoutY="26.0" prefHeight="32.0" prefWidth="159.0" text="Your Search is here !!!">
          <font>
@@ -19,9 +17,9 @@
          </font>
       </Label>
 
-      <Button fx:id="logoutButton" layoutX="210.0" layoutY="373.0" mnemonicParsing="false"  text="Close" onAction="#close" textFill="#000000" prefHeight="38.0" prefWidth="202.0">
+      <Button fx:id="logoutButton" layoutX="201.0" layoutY="375.0" mnemonicParsing="false" onAction="#close" prefHeight="38.0" prefWidth="202.0" text="Close" textFill="#000000">
          <font>
-            <Font name="Calibri" size="20.0" />
+            <Font name="Calibri Bold" size="20.0" />
 
          </font>
          <cursor>
@@ -43,5 +41,9 @@
 
          </font>
       </Label>
+      <ImageView fx:id="productimage" fitHeight="190.0" fitWidth="225.0" layoutX="188.0" layoutY="166.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@../../../images/notfound.png" />
+         </image></ImageView>
    </children>
 </AnchorPane>
